@@ -13,6 +13,7 @@ import android.view.animation.LinearInterpolator;
 
 /**
  * Created by Administrator on 2017/11/13.
+ * 后面省略号动画,随便多少个点 , 省略号loading样式
  */
 
 public class WaitingView extends AppCompatTextView {
